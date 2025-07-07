@@ -37,8 +37,8 @@ Fue diseñado como herramienta didáctica para **aprender sobre generación de m
 **Valeria Cano Soto**  
 Facultad de Ciencias – UNAM  
 Proyecto académico en Python / Google Colab  
-Curso de *Probabilidad I* – Prof: Fís. Jorge Iván Reyes Hernández
-Julio de 2025
+Curso de *Probabilidad I* – Prof: Fís. Jorge Iván Reyes Hernández  
+Junio de 2025
 
 ---
 
